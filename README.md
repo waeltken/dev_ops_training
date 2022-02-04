@@ -1,4 +1,4 @@
-# craysoftware.github.io
+# craysoftware.github.io/dev_ops_training/
 
 Landing page for azdc-training organization - have fun! 🚀
 
