@@ -1,5 +1,4 @@
-# craysoftware.github.io/dev_ops_training/
-
+# craysoftware.github.io
 Landing page for azdc-training organization - have fun! 🚀
 
 This is a sample README.md where you document your newly created Coding Dreams! 🧚‍♀️ 🧚‍♂️
